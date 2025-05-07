@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">chatapp</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="text_view_label">TextView</string>
+    <string name="email_hint">Enter your email</string>
+</resources>
